@@ -4,7 +4,7 @@
 ![Gradient Functions](/images/functions.gif)
 
 ## Purpose
-Gradient descent is one of the fundamental principles in optimization that we use for machine learning. However, beginners looking to understand more about the field are met with generic graphs, or contour plots that relate only in the abstract sense. Graphs like these give an initial intuition for what gradient descent is and what it does, but lack any further depth than an interesting picture. The high dimensionality of most machine learning models make it difficult to visualize for beginners. The goal of this notebook is to provide a more concrete example to build a stronger intuition on both how gradient optimizers work, and the behaviors of each. Hopefully, users can gain further insights from this notebook.
+Gradient descent is one of the fundamental principles in optimization that we use for machine learning. However, beginners looking to understand more about the field are met with generic graphs, or contour plots that relate only in the abstract sense. Graphs like these give an initial intuition for what gradient descent is and what it does, but lack any further depth than an interesting picture. The high-dimensionality of most machine learning models make it difficult to visualize for beginners. The goal of this notebook is to provide a more concrete example to build a stronger intuition on both how gradient optimizers work, and the behaviors of each. Hopefully, users can gain further insights from this notebook.
 
 ## Using the notebook
 Running the entire notebook generates the plots shown in the GIFs above, which users can interact with to change the number of iteration steps, which optimizers to toggle, and change the angle on the 3D graph.
